@@ -1017,5 +1017,9 @@ i {
      transform: scale(0.7);
 
    }
+   .wow li, .wow a{
+         font-family: elevon, sans-serif !important;
+
+   }
 }
 
